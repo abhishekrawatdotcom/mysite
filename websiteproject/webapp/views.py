@@ -6,4 +6,6 @@ def webview(request):
 
 def inview(request):
     return render(request,'in.html')
+def inv(request):
+    return render(request,'in
 # Create your views here.
