@@ -11,4 +11,7 @@ def inv(request):
 
 def load(request):
     return render(request,'in.html')
+
+def please(request):
+    return render(request,'in.html')
 # Create your views here.
